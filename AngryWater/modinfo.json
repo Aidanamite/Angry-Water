@@ -1,0 +1,14 @@
+{
+  "name": "Angry Water",
+  "author": "Aidanamite",
+  "description": "Allows nature to summon forth the greatest of storms",
+  "version": "1.0.1",
+  "license": "GNU AGPLv3",
+  "icon": "icon.png",
+  "banner": "banner.jpg",
+  "gameVersion": "1.0",
+  "requiredByAllPlayers": false,
+  "updateUrl": "https://www.raftmodding.com/api/v1/mods/angry-water/version.txt",
+  "isModPermanent": false,
+  "excludedFiles": []
+}
